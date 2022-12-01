@@ -10,3 +10,7 @@ Make sure to make the script executable by running `sudo chmod+x cal-count.sh` b
 command.
 
 To run the script open a terminal where you saved the file and run `./cal-count.sh`.
+
+To try this script with your advent of code input; just overwrite the `cal-count.txt` with whatever 
+input you have.
+
