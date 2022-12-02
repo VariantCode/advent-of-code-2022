@@ -7,7 +7,7 @@ sed -i "s/B+X/1/g" math.txt
 sed -i "s/C+X/7/g" math.txt
 sed -i "s/A+Y/8/g" math.txt
 sed -i "s/B+Y/5/g" math.txt
-sed -i "s/C+Y/3/g" math.txt
+sed -i "s/C+Y/2/g" math.txt
 sed -i "s/A+Z/3/g" math.txt
 sed -i "s/B+Z/9/g" math.txt
 sed -i "s/C+Z/6/g" math.txt
